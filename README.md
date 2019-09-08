@@ -1,2 +1,2 @@
 # hookit
-Little clojurescript library for simplifying ui development with reagent
+Small clojurescript library for simplifying ui development with reagent
